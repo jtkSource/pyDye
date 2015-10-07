@@ -1,13 +1,13 @@
-==================
-pyDye (python dye)
-==================
+=====================
+pythonDI (python dye)
+=====================
 
 A rudimentary Dependency injection framework in python.
 
-We load the yaml file which has the dependencies defined and create an instance by specifying the namespace of the
-desired object.
+The dependencies are defined in a yaml file as mentioned below. Th objects are created by referring to the namespace defined in yaml for the desired object.
 
 Main modules are:
+
 - `jtk.di.dye`
 
 
@@ -15,7 +15,7 @@ Sample Code::
 
     dye.load_di('pydi.yaml')
 
-    s = dye.get_instance('Jubin.Kuriakose.body2')
+    s = dye.get_instance('jubin.body')
 
     s.print()
 
@@ -45,4 +45,3 @@ Comes in this format::
       class: class_name
       const_args:
         attr: value
-
