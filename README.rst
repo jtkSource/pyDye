@@ -8,7 +8,7 @@ We load the yaml file which has the dependencies defined and create an instance 
 desired object.
 
 Main modules are:
-- `jtk.py.di.dye`
+- `jtk.di.dye`
 
 
 Sample Code::
