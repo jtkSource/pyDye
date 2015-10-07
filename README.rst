@@ -7,7 +7,7 @@ A rudimentary Dependency injection framework in python.
 We load the yaml file which has the dependencies defined and create an instance by specifying the namespace of the
 desired object.
 
-Main modules are: *Italics*, **bold**
+Main modules are:
 - `jtk.py.di.dye`
 
 
