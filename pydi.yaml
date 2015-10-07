@@ -1,0 +1,15 @@
+jubin.body:
+  class: jtk.obj.body.Body
+  class_attr:
+    same_text: 'Injected static Text'
+  const_args:
+    text: 'The count : '
+    cnt: 12
+    toe: 'ref:body.parts.toe'
+  inst_attr:
+    max_cnt: 10
+    min_cnt: 30
+body.parts.toe:
+  class: jtk.obj.body_parts.Toe
+  const_args:
+    cnt: 20
