@@ -46,8 +46,8 @@ Comes in this format::
       const_args:
         attr: value
 
-External hyperlinks, like Python_.
+PyPI URL_.
 
-.. _Python: http://www.python.org/
+.. _URL: https://pypi.python.org/pypi/pyDye/
 	
 
