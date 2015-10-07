@@ -46,7 +46,4 @@ Comes in this format::
       const_args:
         attr: value
 
-PyPI URL_.
-
-.. _URL: https://pypi.python.org/pypi/pyDye/
-	
+[PyPI URL](https://pypi.python.org/pypi/pyDye/)
