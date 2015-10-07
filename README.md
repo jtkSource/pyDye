@@ -45,3 +45,6 @@ Comes in this format::
       class: class_name
       const_args:
         attr: value
+
+PyPI URL_ : 
+.. _URL: https://pypi.python.org/pypi/pyDye
