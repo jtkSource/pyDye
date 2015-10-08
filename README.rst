@@ -1,6 +1,6 @@
-=====================
+==================
 pyDye (python dye)
-=====================
+==================
 
 A rudimentary Dependency injection framework in python.
 
