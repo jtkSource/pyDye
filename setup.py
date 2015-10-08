@@ -22,7 +22,7 @@ setup(
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='7.10.0b1',
+    version='15.10.7',
 
     description='Rudimentary dependency Injection framework',
     long_description=long_description,
@@ -43,7 +43,7 @@ setup(
         #   3 - Alpha
         #   4 - Beta
         #   5 - Production/Stable
-        'Development Status :: 3 - Beta',
+        'Development Status :: 5 - Production/Stable',
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
@@ -64,7 +64,7 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='Dependency Framework',
+    keywords='Dependency Injection Framework',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
